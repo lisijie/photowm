@@ -1,0 +1,5 @@
+resource/*.ttf
+main
+demo.go
+.DS_Store
+*.jpg
